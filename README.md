@@ -1,0 +1,1 @@
+This repository was put together to demonstrate proficiency in SQL Alchemy for EdX's Data Analytics Boot Camp through Rutgers - Camden. Please refer to the _final versions of the app and climate starter for the final versions of each. Needed files for the codes are included and titled "hawaii.sqlite", "hawaii_measurements.csv", and "hawaii_stations.csv".
